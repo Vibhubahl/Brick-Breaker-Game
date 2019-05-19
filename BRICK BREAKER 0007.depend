@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1538072259 source:e:\new folder\brick breaker 0007\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+
