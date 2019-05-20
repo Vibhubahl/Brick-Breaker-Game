@@ -33,7 +33,7 @@ void db()
     {
     case 0:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(41,13);
             printf("          ");
             gotoxy(41,11);
@@ -46,7 +46,7 @@ void db()
         }
     case 1:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(21,13);
             printf("          ");
             gotoxy(21,12);
@@ -59,7 +59,7 @@ void db()
         }
     case 2:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(11,13);
             printf("          ");
             gotoxy(11,12);
@@ -72,7 +72,7 @@ void db()
         }
     case 3:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(31,13);
             printf("          ");
             gotoxy(31,12);
@@ -85,7 +85,7 @@ void db()
         }
     case 4:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(61,13);
             printf("          ");
             gotoxy(61,12);
@@ -98,7 +98,7 @@ void db()
         }
     case 5:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(81,13);
             printf("          ");
             gotoxy(81,12);
@@ -111,7 +111,7 @@ void db()
         }
     case 6:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(101,13);
             printf("          ");
             gotoxy(101,12);
@@ -124,7 +124,7 @@ void db()
         }
     case 7:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(81,10);
             printf("          ");
             gotoxy(81,9);
@@ -137,7 +137,7 @@ void db()
         }
     case 8:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(51,13);
             printf("          ");
             gotoxy(51,12);
@@ -150,7 +150,7 @@ void db()
         }
     case 9:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(31,10);
             printf("          ");
             gotoxy(31,9);
@@ -163,7 +163,7 @@ void db()
         }
     case 10:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(11,10);
             printf("          ");
             gotoxy(11,9);
@@ -176,7 +176,7 @@ void db()
         }
     case 11:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(41,10);
             printf("          ");
             gotoxy(41,9);
@@ -189,7 +189,7 @@ void db()
         }
     case 12:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(61,10);
             printf("          ");
             gotoxy(61,9);
@@ -216,7 +216,7 @@ void db()
         }
     case 13:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(91,13);
             printf("          ");
             gotoxy(91,12);
@@ -229,7 +229,7 @@ void db()
         }
     case 14:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(91,10);
             printf("          ");
             gotoxy(91,9);
@@ -249,7 +249,7 @@ void db()
         }
     case 15:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(61,5);
             printf("          ");
             gotoxy(61,6);
@@ -269,7 +269,7 @@ void db()
         }
     case 16:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(31,5);
             printf("          ");
             gotoxy(31,6);
@@ -282,7 +282,7 @@ void db()
         }
     case 17:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(21,10);
             printf("          ");
             gotoxy(21,9);
@@ -295,7 +295,7 @@ void db()
         }
     case 18:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(51,10);
             printf("          ");
             gotoxy(51,9);
@@ -308,7 +308,7 @@ void db()
         }
     case 19:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(81,5);
             printf("          ");
             gotoxy(81,6);
@@ -321,7 +321,7 @@ void db()
         }
     case 20:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(91,5);
             printf("          ");
             gotoxy(91,6);
@@ -341,7 +341,7 @@ void db()
         }
     case 21:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(21,5);
             printf("          ");
             gotoxy(21,6);
@@ -354,7 +354,7 @@ void db()
         }
     case 22:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(51,5);
             printf("          ");
             gotoxy(51,6);
@@ -367,7 +367,7 @@ void db()
         }
     case 23:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(11,5);
             printf("          ");
             gotoxy(11,6);
@@ -380,7 +380,7 @@ void db()
         }
     case 24:
         {
-            PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\br.wav"),NULL,SND_ASYNC);
+
             gotoxy(41,5);
             printf("          ");
             gotoxy(41,6);
